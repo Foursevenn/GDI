@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="50bd63a7-b51b-428e-aee8-df8b4d891825" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../input/Steroid_Use_docs_formatted.json" beforeDir="false" afterPath="$PROJECT_DIR$/../input/Steroid_Use_docs_formatted.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../setup.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wd_plus_srl/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wd_plus_srl/coref_allen.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wd_plus_srl/coref_spacy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wd_plus_srl/coref_wec_model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wd_plus_srl/data/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wd_plus_srl/data/data_loader.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wd_plus_srl/data/doc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wd_plus_srl/data/io.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wd_plus_srl/data/mention.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wd_plus_srl/data/sentence.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wd_plus_srl/data/token.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wd_plus_srl/srl_allen.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wd_plus_srl/wec_model/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wd_plus_srl/wec_model/cluster.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wd_plus_srl/wec_model/clustering_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wd_plus_srl/wec_model/generate_wec_predictions.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JupyterTrust" id="b4750db9-585b-45ee-bd4f-f3a0d77d48b1" />
+  <component name="ProjectId" id="2B9ufsDfzctyCJ5AmurU46tsncJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50bd63a7-b51b-428e-aee8-df8b4d891825" name="Default Changelist" comment="" />
+      <created>1656330727862</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656330727862</updated>
+      <workItem from="1656330728878" duration="173000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="110" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1656330802181">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="110" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1656330802181" />
+    <state x="507" y="210" key="FileChooserDialogImpl" timestamp="1656330792990">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="507" y="210" key="FileChooserDialogImpl/0.0.1440.900@0.0.1440.900" timestamp="1656330792990" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/wd_plus_srl/wec_model/generate_wec_predictions.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
